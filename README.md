@@ -4,7 +4,7 @@ Click on an image to gain points, however, if you click on the same image in a r
 
 
 
-![friendsgame](./images/friendsgame.jpg)
+![friendsgame](friends2-clicky-game/src/components/Images/friendsgame.jpg)
 
 
 
