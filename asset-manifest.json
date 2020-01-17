@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Friends2-Clicky-Game/static/css/main.37bfe5d2.chunk.css",
+    "main.js": "/Friends2-Clicky-Game/static/js/main.325b8ae6.chunk.js",
+    "main.js.map": "/Friends2-Clicky-Game/static/js/main.325b8ae6.chunk.js.map",
+    "runtime-main.js": "/Friends2-Clicky-Game/static/js/runtime-main.44c2426a.js",
+    "runtime-main.js.map": "/Friends2-Clicky-Game/static/js/runtime-main.44c2426a.js.map",
+    "static/js/2.ebb0e676.chunk.js": "/Friends2-Clicky-Game/static/js/2.ebb0e676.chunk.js",
+    "static/js/2.ebb0e676.chunk.js.map": "/Friends2-Clicky-Game/static/js/2.ebb0e676.chunk.js.map",
+    "index.html": "/Friends2-Clicky-Game/index.html",
+    "precache-manifest.0a5fe5bcacf5ddcc867e83ae90290669.js": "/Friends2-Clicky-Game/precache-manifest.0a5fe5bcacf5ddcc867e83ae90290669.js",
+    "service-worker.js": "/Friends2-Clicky-Game/service-worker.js",
+    "static/css/main.37bfe5d2.chunk.css.map": "/Friends2-Clicky-Game/static/css/main.37bfe5d2.chunk.css.map",
+    "static/js/2.ebb0e676.chunk.js.LICENSE": "/Friends2-Clicky-Game/static/js/2.ebb0e676.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c2426a.js",
+    "static/js/2.ebb0e676.chunk.js",
+    "static/css/main.37bfe5d2.chunk.css",
+    "static/js/main.325b8ae6.chunk.js"
+  ]
+}
