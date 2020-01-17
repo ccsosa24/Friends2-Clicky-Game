@@ -9,3 +9,21 @@ Click on an image to gain points, however, if you click on the same image in a r
 
 
 
+
+
+
+
+
+
+
+
+Key Topics
+
+React
+Create React App
+Components
+JSX
+JSX variables
+Props
+State
+gh-pages
